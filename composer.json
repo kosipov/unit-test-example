@@ -1,0 +1,12 @@
+{
+    "name": "kosipov/string-tests",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Kosipov\\StringTests\\": "src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
